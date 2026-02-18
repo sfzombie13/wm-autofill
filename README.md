@@ -1,7 +1,7 @@
 📧 KITS Home Inspection - WorkMarket Helper
 Because life is too short to type the same thing twice.
 <p align="center">
-<img src="kits-cats.jpg" width="900" height="600" alt="The Management">
+<img src="kits-cats.JPG" width="900" height="600" alt="The Management">
 <br>
 <i>Current Project Status: Signed, Sealed, and Purr-fectly Functional.</i>
 </p>
